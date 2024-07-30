@@ -1,5 +1,7 @@
 # Python/Flask Example Project
 
+[![Deploy on Jetify](https://www.jetify.com/img/devbox/deploy-on-jetify-galaxy.svg)](https://cloud.jetify.com/team/new/deploy?repo=github.com/jetify-examples/python-flask)
+
 [Flask](https://flask.palletsprojects.com/en/3.0.x/) is a microframework for Python web services. This repo is an example project for use with [Jetify Cloud](https://www.jetify.com/cloud)
 
 ## How to Use
